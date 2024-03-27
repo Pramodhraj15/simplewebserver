@@ -90,7 +90,9 @@ reg no:212221040128
 
 ![image](https://github.com/Pramodhraj15/simplewebserver/assets/130092183/e354ff92-26cc-4006-9eed-0e1006789ac7)
 
-![Uploading image.png…]()
+![image](https://github.com/Pramodhraj15/simplewebserver/assets/130092183/ac9b08d2-248c-4a83-9e4a-87cbb124f1b1)
+![image](https://github.com/Pramodhraj15/simplewebserver/assets/130092183/4511d5ee-5a27-4ada-ac30-bd1a066fecec)
+
 
 
 ## RESULT:
