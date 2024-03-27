@@ -82,7 +82,7 @@ Testing the webserver.
 </html>
 ```
 
-Name:R.Pramodh
+Name:Pramodh R
 reg no:212221040128
 ## OUTPUT:
 ![image](https://github.com/Pramodhraj15/simplewebserver/assets/130092183/70c647a8-9b2c-47b8-8977-13d7ed34ac33)
