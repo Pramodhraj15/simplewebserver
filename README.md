@@ -82,15 +82,16 @@ Testing the webserver.
 </html>
 ```
 
-Name:V.Natchathira Rajan
-reg no:212221040112
+Name:R.Pramodh
+reg no:212221040128
 ## OUTPUT:
 ![image](https://github.com/Pramodhraj15/simplewebserver/assets/130092183/70c647a8-9b2c-47b8-8977-13d7ed34ac33)
 
-![alt text](samplewebservercommand1.png)
 
-![alt text](<Sample webserver command2.png>)
-![alt text](oupt-3command.png)
+![image](https://github.com/Pramodhraj15/simplewebserver/assets/130092183/e354ff92-26cc-4006-9eed-0e1006789ac7)
+
+![Uploading image.png…]()
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
