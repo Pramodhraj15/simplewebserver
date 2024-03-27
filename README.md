@@ -85,7 +85,8 @@ Testing the webserver.
 Name:V.Natchathira Rajan
 reg no:212221040112
 ## OUTPUT:
-![alt text](<ex-1 output.png>)
+![image](https://github.com/Pramodhraj15/simplewebserver/assets/130092183/70c647a8-9b2c-47b8-8977-13d7ed34ac33)
+
 ![alt text](samplewebservercommand1.png)
 
 ![alt text](<Sample webserver command2.png>)
